@@ -9,11 +9,6 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 
-// require UUID: creates unique ids
-// const uuid = require('uuid'); 
-
-
-
 // middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
