@@ -24,4 +24,4 @@ I gave each note a unique id when it's saved by using Math.floor(Math.random())
 
 ### Deployment
 
-Check it out on [Heroku](https://infinite-reef-61323.herokuapp.com/notes)
+Check it out on [Heroku](https://infinite-reef-61323.herokuapp.com/)
